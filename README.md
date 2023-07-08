@@ -1,5 +1,5 @@
 # TUGAS UAS KOMPUTER GRAFIK
-## Dwi Putra Espy Bendanu - 201011402248
+## Muhamad yusuf - 201011401382
 
 # Membuat Aplikasi ImageTrim dengan Python
 
